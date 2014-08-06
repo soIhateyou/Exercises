@@ -18,6 +18,7 @@ namespace WindowsFormsApplication1
             Application.Run(new Form1());
             string aa = "aaaa";
             int i = 111;
+            string ddd = "ddd";
         }
     }
 }
