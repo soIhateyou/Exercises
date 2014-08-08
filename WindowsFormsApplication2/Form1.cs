@@ -21,7 +21,5 @@ namespace WindowsFormsApplication2
             textBox1.ClearWatermark();
             textBox2.ClearWatermark();
         }
-
-
     }
 }
